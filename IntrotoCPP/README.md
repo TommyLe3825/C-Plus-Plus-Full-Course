@@ -1,6 +1,6 @@
 # **Objectives of each exercise and the name of the concept/lesson being learned**
 
-# **My First Code Coach:**
+## **My First Code Coach (Statements):**
 Let's code for real!
 
 The given program should output the text: "My first C++ Code Coach!".
