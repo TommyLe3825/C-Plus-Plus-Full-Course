@@ -4,7 +4,7 @@ using namespace std;
 int main() {
    string name = "James";
    int age = 42;
-   float height = 185.7f;
+   float height = 185.7f; //float uses less memory than double but they are less accurate than double data type
 
     cout << "Name: " << name << endl;
     cout << "Age: " << age;
