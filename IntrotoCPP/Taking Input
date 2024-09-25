@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    double length;
+    double height;
+
+    cin >> length;
+    cin >> height;
+
+    cout << length * height;
+    
+}
+
+/*
+#include <iostream>
+using namespace std;
+
+int main() {
+    double length;
+    double height;
+
+    
+}
+*/
