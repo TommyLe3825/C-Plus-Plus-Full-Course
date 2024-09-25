@@ -7,8 +7,7 @@ The given program should output the text: "My first C++ Code Coach!".
 
 But something is wrong.
 
-Task
-Complete the code to generate the required output.
+Task: Complete the code to generate the required output.
 
 ## **Outputting a Quote (Program Structure):**
 
