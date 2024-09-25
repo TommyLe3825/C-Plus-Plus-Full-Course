@@ -25,3 +25,13 @@ Task: Complete the code to generate the required output.
 The given code declares a variable with a value that is a representation of a smiley face using the @ character.
 
 Task: Complete the code to output the value of the variable and check out the result!
+
+## **Contact Info (Data Types):**
+
+The given code declares some variables, then outputs them.
+
+However, the code is missing the data types of the variables.
+
+Task: Complete the code by adding the corresponding data types of the variables, based on the values assigned to them.
+
+*Do not change the values of the variables, as they are needed to match the required output.*
