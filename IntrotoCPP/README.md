@@ -38,7 +38,6 @@ Task: Complete the code by adding the corresponding data types of the variables,
 
 ## **Painting a Wall (Math):**
 
-
 You are painting a rectangular wall and need to calculate the area in order to buy the necessary amount of paint.
 
 The variables length and height define the size of the wall.
@@ -46,3 +45,13 @@ The variables length and height define the size of the wall.
 Task: Calculate and output the area of the wall.
 
 *Hint: The area of the wall is its length multiplied by the height.*
+
+## **Shopping (Comments):**
+
+A local electronics shop has a great deal for notebooks.
+
+You want to buy as many notebooks as you can afford. For that, you need to calculate how many notebooks you can buy with the amount in your bank account and how much money will be left over.
+
+The given code includes comments as instructions for two tasks you need to complete.
+
+Follow the instructions to solve this code coach!
