@@ -35,3 +35,14 @@ However, the code is missing the data types of the variables.
 Task: Complete the code by adding the corresponding data types of the variables, based on the values assigned to them.
 
 *Do not change the values of the variables, as they are needed to match the required output.*
+
+## **Painting a Wall (Math):**
+
+
+You are painting a rectangular wall and need to calculate the area in order to buy the necessary amount of paint.
+
+The variables length and height define the size of the wall.
+
+Task: Calculate and output the area of the wall.
+
+*Hint: The area of the wall is its length multiplied by the height.*
