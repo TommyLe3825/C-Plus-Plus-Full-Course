@@ -1,8 +1,8 @@
-#include <iostream>
-using namespace std;
+#include <iostream> //includes the iostream library to use cout function (Preprocessor directive)
+using namespace std; //makes sure you are using the cout function from the std library (Namespace)
 
 int main() {
-    cout<< "Proof by analogy is fraud.";
+    cout << "Proof by analogy is fraud.";
 }
 
 /*
