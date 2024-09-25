@@ -2,5 +2,5 @@
 using namespace std;
 
 int main() {
-    "Proof by analogy is fraud.";
+    cout<< "Proof by analogy is fraud.";
 }
