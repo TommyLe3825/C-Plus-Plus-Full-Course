@@ -1,4 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout<< "Proof by analogy is fraud.";
+}
+
 /*
+Previously:
+
 #include <iostream>
 using namespace std;
 
@@ -6,10 +15,3 @@ int main() {
     "Proof by analogy is fraud.";
 }
 */
-
-#include <iostream>
-using namespace std;
-
-int main() {
-    cout<< "Proof by analogy is fraud.";
-}
