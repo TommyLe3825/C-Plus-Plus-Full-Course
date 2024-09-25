@@ -1,7 +1,7 @@
-# **These were the objectives of each exercise as well as the name of the concept being learned**
+# **Objectives of each exercise and the name of the concept/lesson being learned**
 
 
-## **Outputting a Quote:**
+## **Outputting a Quote (Program Structure):**
 
 Let's code for real!
 
