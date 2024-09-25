@@ -55,3 +55,11 @@ You want to buy as many notebooks as you can afford. For that, you need to calcu
 The given code includes comments as instructions for two tasks you need to complete.
 
 Follow the instructions to solve this code coach!
+
+## **Taking Input (Taking Input):**
+
+Now that we know how to take input from the user, we can make more interactive programs!
+
+Let's change one of our previous examples, where we calculated the area of a wall, and use the length and height values as input.
+
+Task: Complete the code to take the length and height values as input, then calculate and output the area by multiplying them.
