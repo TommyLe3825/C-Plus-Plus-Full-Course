@@ -1,5 +1,14 @@
 # **Objectives of each exercise and the name of the concept/lesson being learned**
 
+# **My First Code Coach:**
+Let's code for real!
+
+The given program should output the text: "My first C++ Code Coach!".
+
+But something is wrong.
+
+Task
+Complete the code to generate the required output.
 
 ## **Outputting a Quote (Program Structure):**
 
