@@ -63,3 +63,15 @@ Now that we know how to take input from the user, we can make more interactive p
 Let's change one of our previous examples, where we calculated the area of a wall, and use the length and height values as input.
 
 Task: Complete the code to take the length and height values as input, then calculate and output the area by multiplying them.
+
+## **Club Entrance (Conditionals):**
+
+You are making an app to control the entrance to a club.
+
+Only clients who are 16 or older are allowed to enter.
+
+Task: Take the age of the client as input, then output "Welcome", in case it's greater or equal to 16, and "Not allowed", if it's not.
+
+For example, if the user enters 28 as their age, the output should be "Welcome".
+
+*Output the corresponding message exactly as mentioned above, with a capital starting letter.*
