@@ -90,3 +90,16 @@ Latte
 Task: Create a program that outputs the correct coffee type based on the user's choice.
 
 The choice variable is taken from input and is a number that corresponds to the coffee type.
+
+## **Playground Tickets (Multiple Conditions):**
+You are making an app to control the entrance of a playground and output the ticket category based on the age of the customer.
+
+There are 3 categories of tickets:
+
+Free: Ages 0-3 get free tickets
+Discounted: Ages 4-6 get discounted tickets.
+Normal: Ages 7+ get a normal ticket.
+
+Task: Take the age of the customer as input, then output the ticket category corresponding to that age.
+
+For example, if the user enters 5 as the age, the output should be "Discounted".
