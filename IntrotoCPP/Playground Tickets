@@ -1,3 +1,20 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int age;
+    cin >> age;
+
+    if(age<=3){ //free between ages 0-3
+        cout<<"Free";
+    }
+    else if(age>=4 && age<=6){ //Discounted between ages 4-6
+        cout<<"Discounted";
+    }else{ //7+ age
+        cout<<"Normal";
+    }
+}
+
 /*
 #include <iostream>
 using namespace std;
