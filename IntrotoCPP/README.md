@@ -78,7 +78,7 @@ For example, if the user enters 28 as their age, the output should be "Welcome".
 
 ## **Coffee Machine (The switch statement):**
 
-PRACTICE EXERCISE
+*PRACTICE EXERCISE*:
 Coffee Machine
 A coffee machine makes 4 types of coffee:
 
