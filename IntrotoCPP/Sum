@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int n;
+    cin >> n;
+    int sum = 0;
+
+    for(int x=0;x<=n;x++) //just adding each number leading to the n
+    {
+        sum+=x; //adding the current number to sum
+    }
+
+    cout << sum;
+}
