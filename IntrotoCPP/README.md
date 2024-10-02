@@ -104,7 +104,7 @@ Task: Take the age of the customer as input, then output the ticket category cor
 
 For example, if the user enters 5 as the age, the output should be "Discounted".
 
-## **Countdown (while Loops): **
+## **Countdown (while Loops):**
 Create a timer program that will take the number of seconds as input, and countdown to 0.
 
 Here is a sample output for the input 5:
@@ -117,3 +117,10 @@ Here is a sample output for the input 5:
 0
 
 *Note that the output should also include the number 0 and have each number on a new line.*
+
+## **Sum (for Loops):**
+
+You need to create an app that calculates the sum of the numbers 1 to N, where N is taken from input.
+
+For example, for the number 5, the output should be 15, because 1+2+3+4+5=15.
+
