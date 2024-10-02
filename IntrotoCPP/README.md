@@ -104,7 +104,7 @@ Task: Take the age of the customer as input, then output the ticket category cor
 
 For example, if the user enters 5 as the age, the output should be "Discounted".
 
-## **Countdown (while Loops, Increment, Decrement): **
+## **Countdown (while Loops): **
 Create a timer program that will take the number of seconds as input, and countdown to 0.
 
 Here is a sample output for the input 5:
