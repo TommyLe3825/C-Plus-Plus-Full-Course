@@ -124,3 +124,8 @@ You need to create an app that calculates the sum of the numbers 1 to N, where N
 
 For example, for the number 5, the output should be 15, because 1+2+3+4+5=15.
 
+## **Alphabet (arrays):**
+The given code declares an array that holds the letters of the English alphabet.
+
+Task: Take a number as input and output the letter from the array that corresponds to that index.
+
