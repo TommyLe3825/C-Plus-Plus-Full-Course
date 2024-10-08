@@ -129,3 +129,12 @@ The given code declares an array that holds the letters of the English alphabet.
 
 Task: Take a number as input and output the letter from the array that corresponds to that index.
 
+## **Total Price (looping through arrays):**
+You are making an app for an online shopping portal. 
+
+The given code declares an array, which stores prices of an order.
+
+You need to complete the code to calculate and output the total of the order.
+
+*Hint: Use a for-each loop to iterate over the array and calculate the sum of all items in a variable.*
+
