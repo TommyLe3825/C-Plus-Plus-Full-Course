@@ -145,7 +145,6 @@ The map of the game is defined as a two-dimensional array, which stores 0 and 1 
 
 0 corresponds to the area of the map that is free, while 1 represents a player on the map.
 
-Task
-Take two integers as input, the first representing the row, the second - the column.
+Task: Take two integers as input, the first representing the row, the second - the column.
 
 Then output the corresponding value from the map array
