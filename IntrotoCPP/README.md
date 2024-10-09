@@ -148,3 +148,13 @@ The map of the game is defined as a two-dimensional array, which stores 0 and 1 
 Task: Take two integers as input, the first representing the row, the second - the column.
 
 Then output the corresponding value from the map array
+
+## **Average Age (Pointers):**
+
+The given code declares an array called ages, which stores the ages of all employees of a company.
+
+The code also includes a for loop that outputs the array. 
+
+Task: Modify the code to calculate and output the average age of the employees. You do not need to output the array.
+
+*Hint: To calculate the average, first calculate the sum of all ages, then divide it by their count. The output should be an integer.*
