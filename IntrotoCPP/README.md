@@ -158,3 +158,9 @@ The code also includes a for loop that outputs the array.
 Task: Modify the code to calculate and output the average age of the employees. You do not need to output the array.
 
 *Hint: To calculate the average, first calculate the sum of all ages, then divide it by their count. The output should be an integer.*
+
+## An Array From Input (Dynamic Memory):**
+Dynamic memory allocation is useful in many situations, such as when your program depends on input. As an example, when your program needs to read an image file, it doesn't know in advance the size of the image file and the memory necessary to store the image.
+
+* Memory is allocated using the <b>new</b> keyword: int* p = new int[size];
+* After the allocated memory is no longer needed, we can free it up using delete: delete[] p;
