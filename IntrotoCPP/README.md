@@ -169,3 +169,16 @@ Dynamic memory allocation is useful in many situations, such as when your progra
 It’s very common to have a "preloader" component, especially in multifunctional apps and websites.
 
 Task: Complete the given function to output "Loading...", then call it
+
+## Chat Bot v2 (Function Parameters):**
+Let's make our chat bot a bit more advanced using parameters!
+
+The bot() function has to take 2 parameters: one integer called mode, and a string called name.
+
+The given code takes the values for the arguments as input and passes them to the bot() function. 
+
+Modify the bot() function to take the given 2 parameters and generate the output using the following logic:
+
+* In case mode is 1, the output should be "Welcome, name!", where name is the parameter’s value.
+* In case mode is 2, the output should be "Goodbye, name!".
+* If mode has any other value, the output should be "Try again".
