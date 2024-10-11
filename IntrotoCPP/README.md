@@ -164,3 +164,8 @@ Dynamic memory allocation is useful in many situations, such as when your progra
 
 * Memory is allocated using the <b>new</b> keyword: int* p = new int[size];
 * After the allocated memory is no longer needed, we can free it up using delete: delete[] p;
+  
+## Loading... (Functions): **
+It’s very common to have a "preloader" component, especially in multifunctional apps and websites.
+
+Task: Complete the given function to output "Loading...", then call it
