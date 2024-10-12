@@ -1,4 +1,5 @@
-# **Introduction to C++: Objectives of each exercise and the name of the concept/lesson being learned**
+# **Introduction to C++: 
+**Objectives of each exercise and the name of the concept/lesson being learned**
 
 ## **My First Code Coach (Statements):**
 
