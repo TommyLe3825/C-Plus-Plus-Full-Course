@@ -191,3 +191,11 @@ The given code takes the number of days as input, passes it to the toSeconds() f
 Task: Create the toSeconds() function, which takes the days as its parameter, calculates and returns the number of seconds.
 
 *Hint: To calculate the seconds in a given number of days, multiply it by 24 to get hours, then by 60, to get minutes, then by another 60, to get the seconds.*
+
+## **Decimal Days to Seconds (Overloading Functions)**
+We need to modify our days to seconds converter app to also work with decimal days.
+
+Task: Overload the given toSeconds() function to take double days as its parameter and return the number of seconds as a double.
+
+*Do not modify the code in main(). It calls both versions of the function, one with an int, another one with a double.*
+
