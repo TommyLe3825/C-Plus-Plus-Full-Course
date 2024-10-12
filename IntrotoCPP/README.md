@@ -190,4 +190,4 @@ The given code takes the number of days as input, passes it to the toSeconds() f
 
 Task: Create the toSeconds() function, which takes the days as its parameter, calculates and returns the number of seconds.
 
-* Hint: To calculate the seconds in a given number of days, multiply it by 24 to get hours, then by 60, to get minutes, then by another 60, to get the seconds. *
+*Hint: To calculate the seconds in a given number of days, multiply it by 24 to get hours, then by 60, to get minutes, then by another 60, to get the seconds.*
