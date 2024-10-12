@@ -170,7 +170,7 @@ It’s very common to have a "preloader" component, especially in multifunctiona
 
 Task: Complete the given function to output "Loading...", then call it
 
-## Chat Bot v2 (Function Parameters):**
+## **Chat Bot v2 (Function Parameters):**
 Let's make our chat bot a bit more advanced using parameters!
 
 The bot() function has to take 2 parameters: one integer called mode, and a string called name.
@@ -182,3 +182,10 @@ Modify the bot() function to take the given 2 parameters and generate the output
 * In case mode is 1, the output should be "Welcome, name!", where name is the parameter’s value.
 * In case mode is 2, the output should be "Goodbye, name!".
 * If mode has any other value, the output should be "Try again".
+
+## **How many seconds? (Returning from Functions)**
+You are making an app to calculate how many seconds there are in a given number of days.
+
+The given code takes the number of days as input, passes it to the toSeconds() function as the parameter, assigns the result to a variable, and outputs it.
+
+Task: Create the toSeconds() function, which takes the days as its parameter, calculates and returns the number of seconds.
