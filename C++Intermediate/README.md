@@ -17,7 +17,8 @@ The program should warn "Too much" if the inputted horsepower is above 800.
 Sample Input: 
 950
 
-Sample Output
+Sample Output:
+
 Too much
 
 950
@@ -30,11 +31,11 @@ The given program defines a Painting class and creates an object using the const
 
 Fix the code so that the constructor takes the name as the argument and outputs it.
 
-Sample Input
+Sample Input:
 
 Ocean
 
-Sample Output
+Sample Output:
 
 Ocean
 
