@@ -23,3 +23,19 @@ Too much
 950
 
 *You should use the if statement directly inside the setter function.*
+
+## **The Ninth Wave (Constructors)**
+
+The given program defines a Painting class and creates an object using the constructor.
+
+Fix the code so that the constructor takes the name as the argument and outputs it.
+
+Sample Input
+
+Ocean
+
+Sample Output
+
+Ocean
+
+*The constructor should take one string as the argument and output it.*
