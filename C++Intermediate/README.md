@@ -7,7 +7,7 @@ Expected Output: chirp-chirp
 
 *Don't forget to add access specifier - the public keyword.*
 
-## **Example of Encapsulation (Encapsulation (Public, Private, Protected)
+## **Example of Encapsulation (Encapsulation)
 You are a supercar engineer and currently setting the engine's horsepower.
 
 Complete the given program by completing methods to set and get the horsepower of the car object in order to output it.
