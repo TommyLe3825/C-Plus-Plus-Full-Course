@@ -49,6 +49,13 @@ You make a **Queue** class, which has a size attribute, and an array, to hold th
 
 The class has a **remove()** method to remove the front item of the queue, a **print()** method to output the queue.
 
+You need to create an **add()** method for the Queue class, that will take an item and add it to the end of the queue.
+
+The code needs to be fully working, so that the Queue declaration and manipulation code in main() works.
+
+*Do not forget to increment the size after adding the item to the array.*
+*Read the code carefully, before making any changes.*
+
 ## **Player Destructor (Destructors)**
 
 You are making a game. The given code declares a Player class with a points member.
@@ -56,10 +63,3 @@ You are making a game. The given code declares a Player class with a points memb
 You need to add the destructor to the Player class, which should print the remaining points when the program finishes execution.
 
 *Remember, the destructor is defined using the ~ symbol.*
-
-You need to create an **add()** method for the Queue class, that will take an item and add it to the end of the queue.
-
-The code needs to be fully working, so that the Queue declaration and manipulation code in main() works.
-
-*Do not forget to increment the size after adding the item to the array.*
-*Read the code carefully, before making any changes.*
