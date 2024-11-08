@@ -69,3 +69,12 @@ You are creating a program to manage smartphones. The given code declares a **Ph
 A **Phone** object is declared in main. Complete the code to call the **getCharge()** method using the correct selection operator.
 
 *You can call a member function directly on the object, or using the pointer.*
+
+## **Creating Classes (Constant Objects)**
+You are making a **Number** class to handle different math operations. The class includes an integer member and a **square()** method.
+
+You need to complete the **square()** method so that the given code executes successfully. 
+
+The **square()** method should return the square of **num**.
+
+*Note, that the object is constant, so it can call only constant methods.*
