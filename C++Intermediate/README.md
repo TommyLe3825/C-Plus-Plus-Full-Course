@@ -86,3 +86,14 @@ The given program declares a **TV** class with **height** and **width** members,
 Complete the program by taking 2 integers as input, create a TV object by passing them to the constructor, and call the **area()** method.
 
 *Note, that the constructor needs 2 integer values.*
+
+## **Fast Engine**
+You are creating a program to make **Cars**. Each Car has an **Engine**, which is declared as a separate class.
+
+Complete the given code to:
+
+1. call the start() method of the Engine in the start() method of the Car,
+
+2. create a Car object with the given Engine and inputs in main and call its start() method.
+
+*Read and understand the given code first, before making any modifications.*
