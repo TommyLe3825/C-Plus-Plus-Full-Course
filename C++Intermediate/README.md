@@ -87,7 +87,7 @@ Complete the program by taking 2 integers as input, create a TV object by passin
 
 *Note, that the constructor needs 2 integer values.*
 
-## **Fast Engine**
+## **Fast Engine** (Composition)
 You are creating a program to make **Cars**. Each Car has an **Engine**, which is declared as a separate class.
 
 Complete the given code to:
