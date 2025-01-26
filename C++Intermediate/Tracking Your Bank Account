@@ -1,0 +1,40 @@
+#include <iostream>
+using namespace std;
+
+class Account {
+    private:
+        int balance=0;
+        int interest=0;
+    public:
+        Account() {} //just a default constructor that allows the creation of an Account object without any values
+        Account(int a): balance(a) //parameterized constructor that allows you to initialize an Account obect with a specific balance (Flexibility in the case you may not have a balance initially or perhaps if you know the balance at the time of creation)
+        {
+            interest += balance/10;
+        }
+        int getTotal() {
+            return balance+interest;
+        }
+        //your code goes here
+        Account operator+(Account &obj){
+            Account res; //temporary object to store result as you need to return an object
+            //"this" pointer refers to current object on the left usually (a) and obj in this case represents the object on the right side of the operator
+            res.balance = this->balance + obj.balance + this->interest + obj.interest;
+            return res; //return the whole account object
+        }
+        
+
+};
+
+int main() {
+    int n1, n2;
+    cin >> n1 >> n2;
+    Account a(n1); //the constructor  Account(int a) sets a.balance = n1
+    Account b(n2); //same for b 
+    Account res = a+b;//a ="this pointer" + b= obj reference
+
+    // Using getTotal() to calculate balance + interest
+    cout << res.getTotal(); 
+
+    // Or using overloaded << operator to print the Account directly
+    //cout << res << endl;  // Output: Balance: 3000, Interest: 300
+}
