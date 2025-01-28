@@ -3,14 +3,14 @@
 
 ## Credit
 The original content belongs to [SoloLearn](https://www.sololearn.com). This repository is for personal educational use, and no copyright infringement is intended.
-
+-------------------------
 ### **Example of a class (classes/access specifiers)**
 Complete the given program. Define a class Bird which has one public method called makeSound(). That prints "chirp-chirp" when called.
 
 Expected Output: chirp-chirp
 
 *Don't forget to add access specifier - the public keyword.*
-
+-------------------------
 ### **Example of Encapsulation (Encapsulation)**
 You are a supercar engineer and currently setting the engine's horsepower.
 
@@ -28,7 +28,7 @@ Too much
 950
 
 *You should use the if statement directly inside the setter function.*
-
+-------------------------
 ### **The Ninth Wave (Constructors)**
 
 The given program defines a Painting class and creates an object using the constructor.
@@ -44,7 +44,7 @@ Sample Output:
 Ocean
 
 *The constructor should take one string as the argument and output it.*
-
+-------------------------
 ### **Queue Management (Part 1)**
 
 You are working on a Queue management system and need to create the class to hold the queue data, which are customer IDs (integers).
@@ -59,7 +59,7 @@ The code needs to be fully working, so that the Queue declaration and manipulati
 
 *Do not forget to increment the size after adding the item to the array.*
 *Read the code carefully, before making any changes.*
-
+-------------------------
 ### **Player Destructor (Destructors)**
 
 You are making a game. The given code declares a Player class with a points member.
@@ -67,13 +67,13 @@ You are making a game. The given code declares a Player class with a points memb
 You need to add the destructor to the Player class, which should print the remaining points when the program finishes execution.
 
 *Remember, the destructor is defined using the ~ symbol.*
-
+-------------------------
 ### **Charge! (Selection Operator)**
 You are creating a program to manage smartphones. The given code declares a **Phone** class, with its constructor and two methods: **use()** and **getCharge()**.
 A **Phone** object is declared in main. Complete the code to call the **getCharge()** method using the correct selection operator.
 
 *You can call a member function directly on the object, or using the pointer.*
-
+-------------------------
 ### **Creating Classes (Constant Objects)**
 You are making a **Number** class to handle different math operations. The class includes an integer member and a **square()** method.
 
@@ -82,7 +82,7 @@ You need to complete the **square()** method so that the given code executes suc
 The **square()** method should return the square of **num**.
 
 *Note, that the object is constant, so it can call only constant methods.*
-
+-------------------------
 ### **Sorting By Size (Member Initializers)**
 You are making a program to store TVs with their width and height.
 The given program declares a **TV** class with **height** and **width** members, an **area()** method, as well as a constructor that initializes the members of the class.
@@ -90,7 +90,7 @@ The given program declares a **TV** class with **height** and **width** members,
 Complete the program by taking 2 integers as input, create a TV object by passing them to the constructor, and call the **area()** method.
 
 *Note, that the constructor needs 2 integer values.*
-
+-------------------------
 ### **Fast Engine (Composition)**
 You are creating a program to make **Cars**. Each Car has an **Engine**, which is declared as a separate class.
 
@@ -101,7 +101,7 @@ Complete the given code to:
 2. create a Car object with the given Engine and inputs in main and call its start() method.
 
 *Read and understand the given code first, before making any modifications.*
-
+-------------------------
 ### **Find The Coordinates (Friend Function)**
 
 You are given a Point class, which defines a **point** on a 2D grid (x, y).
@@ -113,7 +113,7 @@ However, the code is not working, as the coordinates are **private**.
 Modify the code to fix it.
 
 *Remember, functions declared as **friend** in a class are able to modify the private members.*
-
+-------------------------
 ### **Tracking Your Bank Account (Operator Overloading)**
 
 You are creating a program for a Bank to manage Accounts.
@@ -125,7 +125,7 @@ The bank asks you to add a new functionality to merge two accounts together, res
 Overload the + operator to allow adding two **Account** objects, adding the **balances** and **interests**.
 
 *The overloaded operator should return a new Account object, with the corresponding member values.*
-
+-------------------------
 ### **Doodling! (Inheritance)**
 You are making a drawing application. The code you are given declares a **Shape** base class, and you are making separate classes for each shape that your application is going to support. 
 
