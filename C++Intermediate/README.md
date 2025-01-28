@@ -1,4 +1,4 @@
-## **C++ Intermediate:**
+# **C++ Intermediate:**
 **Objectives of each exercise and the name of the concept/lesson being learned**
 
 ## Credit
