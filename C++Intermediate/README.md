@@ -1,5 +1,8 @@
-# **C++ Intermediate:**
+## **C++ Intermediate:**
 **Objectives of each exercise and the name of the concept/lesson being learned**
+
+## Credit
+The original content belongs to [SoloLearn](https://www.sololearn.com). This repository is for personal educational use, and no copyright infringement is intended.
 
 ## **Example of a class (classes/access specifiers)**
 Complete the given program. Define a class Bird which has one public method called makeSound(). That prints "chirp-chirp" when called.
