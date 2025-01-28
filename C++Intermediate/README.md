@@ -90,7 +90,7 @@ Complete the program by taking 2 integers as input, create a TV object by passin
 
 *Note, that the constructor needs 2 integer values.*
 
-### **Fast Engine** (Composition)
+### **Fast Engine (Composition)**
 You are creating a program to make **Cars**. Each Car has an **Engine**, which is declared as a separate class.
 
 Complete the given code to:
@@ -101,7 +101,7 @@ Complete the given code to:
 
 *Read and understand the given code first, before making any modifications.*
 
-### **Find The Coordinates** (Friend Function)
+### **Find The Coordinates (Friend Function)**
 
 You are given a Point class, which defines a **point** on a 2D grid (x, y).
 
@@ -113,8 +113,7 @@ Modify the code to fix it.
 
 *Remember, functions declared as **friend** in a class are able to modify the private members.*
 
-### **Tracking Your Bank Account** (Operator Overloading)
-
+### **Tracking Your Bank Account (Operator Overloading)**
 
 You are creating a program for a Bank to manage Accounts.
 
@@ -125,3 +124,10 @@ The bank asks you to add a new functionality to merge two accounts together, res
 Overload the + operator to allow adding two **Account** objects, adding the **balances** and **interests**.
 
 *The overloaded operator should return a new Account object, with the corresponding member values.*
+
+### **Doodling! (Inheritance)**
+You are making a drawing application. The code you are given declares a **Shape** base class, and you are making separate classes for each shape that your application is going to support. 
+
+Inherit the **Rectangle** class from the **Shape** class and call its **draw()** method. 
+
+*Inherit using a colon and an access specifier.*
