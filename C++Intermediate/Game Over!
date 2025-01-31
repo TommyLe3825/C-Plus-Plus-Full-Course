@@ -28,3 +28,6 @@ class Quiz: public Game
 int main() {
     Quiz q;
 }
+
+//For constructors: Constructor of base class gets called first and then derived class
+//For destructors: Destructor of derived class gets called first and then base class
