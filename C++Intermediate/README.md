@@ -154,3 +154,21 @@ You make a **Product** base class and separate classes for each product type.
 Inherit the **Fruit** class from **Product** and make sure the given code works correctly.
 
 *The code tries to access the private members of Product in the Fruit class. Fix it by applying the correct access specifier.*
+
+------------------------------
+### **Game Over! (Derived Class Constructor and Destructor)**
+You are making a Quiz game. **The Quiz class inherits from the Game base class.**
+
+Both classes have constructors, which output a Start message. 
+
+Create destructors for each class, which will output "Game Over" in the **Game** class, and "Quiz Over" in the **Quiz** class, so that when the program executes, it outputs:
+
+Game Started
+
+Quiz Started
+
+Quiz Over
+
+Game Over
+
+*The derived class destructor gets executed first, before the base class destructor.*
