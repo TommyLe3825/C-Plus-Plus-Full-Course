@@ -200,3 +200,13 @@ The code loops through the array and calls the **speak()** method of the object,
 Complete the code by adding the **speak()** method to the **Animal** class, so that the code works and the corresponding methods get called correctly.
 
 *This is an example of polymorphism in action: without knowing the subtype of the objects, you are able to call the speak() method, and the corresponding implementation is getting executed.*
+
+--------------------------------
+### **Going For A Ride (Abstract Classes/Pure Virtual Functions)**
+You are given a **Vehicle** base class, and two subclasses, **Car** and **Bicycle**.
+
+Both classes have a drive() method which is called in main, using **Vehicle** pointers.
+
+Complete the Vehicle class, so that it correctly represents a Vehicle abstraction.
+
+*Remember, an abstract class should include a pure virtual function, which the derived classes must implement.*
