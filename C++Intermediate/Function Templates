@@ -5,11 +5,13 @@ using namespace std;
 template <typename T>
 T myMax(T x, T y){
     return (x > y) ? x : y; 
+
 /* if (x > y) {
     return x;
 } else {
     return y;
 }*/
+
 }
 
 int main () {
