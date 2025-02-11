@@ -228,3 +228,21 @@ Your **Queue** class is up and working in a customer service company. The compan
 You decide to create a new class called **Queue2**, which is derived from the **Queue** class and overrides the **print()** method, outputting each element of the queue on a new line.
 
 *Do not forget to change the access specifier of the Queue members, as they won't be inherited if private.*
+
+------------------------------
+### **Function Templates (Functions)**
+You need to write a function, which returns the maximum of its two parameters, and it should work for different data types (integers, doubles, etc.)
+
+Create a function template called **myMax()**, which takes two parameters and returns the larger one, so that the code in main works as expected.
+
+Sample Input
+
+4.2
+
+8.1
+
+Sample Output 
+
+8.1
+
+*Remember, the syntax for declaring a template function is **template <class T>***
