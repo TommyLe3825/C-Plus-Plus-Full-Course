@@ -230,7 +230,7 @@ You decide to create a new class called **Queue2**, which is derived from the **
 *Do not forget to change the access specifier of the Queue members, as they won't be inherited if private.*
 
 ------------------------------
-### **Function Templates (Functions)**
+### **Functions!(Function Templates)**
 You need to write a function, which returns the maximum of its two parameters, and it should work for different data types (integers, doubles, etc.)
 
 Create a function template called **myMax()**, which takes two parameters and returns the larger one, so that the code in main works as expected.
