@@ -269,3 +269,13 @@ You first create a class for integers only, to see if it works. The given code d
 Change the class to convert it into a class template, to support any type for the queue and so that the code in main runs successfully.
 
 *Remember, the syntax to make a class template is **template <class T>**.*
+
+------------------------------------------
+### **Template Specialist (Template Specialization)**
+You are given a **Div** class template, which has a constructor that takes two parameters and outputs their division.
+
+You need to specialize the class for strings, which should output the division of the lengths of the parameter strings, as the division operator is not defined for **strings**.
+
+Create the template specialization so that the code in main executes correctly.
+
+*You can get the length of a string using the **size()** function.*
