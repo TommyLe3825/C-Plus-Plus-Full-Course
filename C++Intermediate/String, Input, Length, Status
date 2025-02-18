@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+   string name;
+   cin >> name;
+   try {
+      if(size(name)>=4 && size(name)<=20){
+         throw 1;
+      }else{
+         throw 0;
+      }
+   }
+   catch(int x) {
+      if(x==0){
+         cout << "Invalid";
+      }else{
+         cout << "Valid";
+      }
+   }
+   
+   return 0;
+}
