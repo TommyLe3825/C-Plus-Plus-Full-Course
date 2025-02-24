@@ -299,3 +299,11 @@ However, the users can input anything, even numbers that are not present in the 
 Handle wrong user input, by throwing an exception with code **404** and outputting **"404 - not found"**, if it is out of the range of the given menu.
 
 *Note that the menu is given as an array, so you need to output the item corresponding to the input index, if it exists.*
+
+--------------------------------------------
+### **Queue Management (Part 4)**
+It's time to update your Queue management system. The previous version supports only integer numbers and we need to support more types, such as strings, to store customer names in the queue.
+
+Transform the given **Queue** class to a class template, which can work with different data types.
+
+*The code in main declares two Queues, one for integers, and another one for strings.*
